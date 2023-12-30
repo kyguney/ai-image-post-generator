@@ -1,0 +1,9 @@
+/* stylelint-disable */
+
+/* Container Vars */
+:root {
+	/* Site width: 1280px */
+	--max-site-width: 860px;
+
+	--t-default: 300ms;
+}

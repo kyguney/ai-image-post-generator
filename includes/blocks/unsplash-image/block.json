@@ -1,0 +1,32 @@
+{
+  "title": "Unsplash Image",
+  "apiVersion": 2,
+  "description": "Upload image from unsplash",
+  "textdomain": "aipg-plugin",
+  "name": "aipg-plugin/unsplash-image",
+  "icon": "image",
+  "category": "aipg-plugin",
+  "attributes": {
+    "numberOfImage": {
+      "type": "number",
+      "default": 1
+    },
+    "keywords": {
+      "type": "array",
+      "default": []
+    },
+    "unsplashImages": {
+      "type": "object",
+      "default": {}
+    },
+    "blockImage": {
+      "type": "object",
+      "default": { "id": 0, "url": "" }
+    },
+    "autoSearch": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "editorScript": "file:./index.js"
+}

@@ -1,0 +1,76 @@
+.unsplash-image-block,
+.wp-block-aipg-plugin-unsplash-image {
+
+	& .components-placeholder__fieldset {
+		display: flex;
+		flex-wrap: wrap;
+
+		& .unsplash-image-block__keywords {
+			width: 100%;
+
+			& button {
+				padding: 0;
+			}
+		}
+
+		& .unsplash-image-block__image-number {
+			width: 100%;
+		}
+
+		& .unsplash-image-block__search {
+			width: 100%;
+		}
+	}
+
+	& img {
+		box-sizing: border-box;
+		height: auto;
+		max-width: 100%;
+		vertical-align: bottom;
+	}
+}
+
+.aipg-slider-container {
+	margin: auto;
+	max-width: 800px;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+
+	& .aipg-slider-content {
+		display: flex;
+		transition: transform 0.5s ease-in-out;
+
+		& .aipg-slide {
+			align-items: center;
+			display: flex;
+			flex: 0 0 100%;
+			height: 100%;
+			justify-content: center;
+
+			& img {
+				max-height: 100%;
+				max-width: 100%;
+				object-fit: contain;
+			}
+		}
+	}
+
+	& .aipg-slider-buttons {
+		display: flex;
+		justify-content: space-between;
+		position: absolute;
+		top: 50%;
+		transform: translateY(-50%);
+		width: 100%;
+
+		& .aipg-slider-button {
+			background-color: var(--c-white);
+			border: none;
+			border-radius: 50%;
+			cursor: pointer;
+			margin: 5px;
+			padding: 7px;
+		}
+	}
+}

@@ -1,0 +1,74 @@
+/* Basic styles for the card section */
+.wp-block-aipg-plugin-unsplash-card {
+	align-items: center;
+	background-color: var(--c-white);
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgba(0 0 0 / 10%);
+	display: flex;
+	justify-content: space-between;
+	padding: 20px;
+	transition: background-color 0.3s ease-in-out;
+
+	& .block-editor-inner-blocks {
+		width: 100%;
+	}
+
+	&:hover {
+		background-color: var(--c-cultured-white);
+	}
+
+	& .wp-block-columns {
+		margin-bottom: 0;
+
+		& .wp-block-column {
+
+			& img {
+				border-radius: 10px;
+				height: auto;
+				max-width: 100%;
+				transition: transform 0.3s ease-in-out;
+
+				&:hover {
+					transform: scale(1.05);
+				}
+			}
+
+			& p {
+				color: var(--c-d-grey);
+				font-size: 18px;
+				line-height: 1.8;
+				margin: 0;
+			}
+		}
+	}
+
+	&:focus {
+		box-shadow: 0 0 0 4px rgba(0 123 255 / 30%);
+		outline: none;
+	}
+
+	&.aipg-image-right {
+
+		& .wp-block-column {
+
+			&:nth-child(1) {
+				order: 2;
+			}
+
+			&:nth-child(2) {
+				order: 1;
+			}
+		}
+	}
+
+	@media screen and (max-width: 768px) {
+
+		.wp-block-columns.is-layout-flex {
+			flex-direction: column;
+		}
+
+		.wp-block-column.is-layout-flow {
+			flex-basis: 100%;
+		}
+	}
+}

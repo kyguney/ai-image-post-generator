@@ -1,0 +1,6 @@
+.site-footer {
+	font-family: var(--font-sans);
+	font-style: italic;
+	margin-bottom: var(--sp-xxl);
+	margin-top: var(--sp-xxl);
+}

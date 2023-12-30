@@ -1,0 +1,13 @@
+/**
+ * AIPGPlugin
+ * https://project-website.tld
+ *
+ */
+/* Resets - installed via NPM */
+@import url("normalize.css");
+
+/* Global - global pieces like media queries, mixins and placholders */
+@import url("global/index.css");
+
+/* Components - Admin side used components' styles */
+@import url("components/index.css");

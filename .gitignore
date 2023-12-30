@@ -1,0 +1,32 @@
+node_modules
+bower_components
+release
+phpunit.xml
+.idea
+upgrade
+cache
+
+# Project Files
+backstop_data
+
+# Editors
+*.esproj
+*.tmproj
+*.tmproject
+tmtags
+.*.sw[a-z]
+*.un~
+Session.vim
+*.swp
+.vscode
+
+# Mac OSX
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+/debug.log

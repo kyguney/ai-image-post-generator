@@ -1,0 +1,34 @@
+/**
+ * AIPGPlugin
+ * https://project-website.tld
+ *
+ */
+
+/* Resets - installed via NPM */
+
+@import url("normalize.css");
+
+/* Global - global pieces like media queries, mixins and placholders */
+
+@import url("global/index.css");
+
+/* Base - base styles such as fonts, typography, and wordpress overrides */
+
+@import url("base/index.css");
+
+/* Components */
+
+@import url("components/index.css");
+
+/* Gutenberg blocks */
+
+@import url("../blocks/index.css");
+
+/* Remove error while in dev mode */
+
+iframe {
+
+	&#webpack-dev-server-client-overlay {
+		display: none !important;
+	}
+}

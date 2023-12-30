@@ -1,0 +1,16 @@
+/*
+ * Colors
+ */
+:root {
+	--c-red: #df2b26;
+	--c-red-100: #e75e77;
+	--c-red-500: #c22722;
+	--c-black: #242121;
+	--c-black-200: #2c2d31;
+	--c-grey-100: #ececec;
+	--c-grey-200: #ccc;
+	--c-grey-300: #939393;
+	--c-d-grey: #555;
+	--c-white: #fff;
+	--c-cultured-white: #f8f8f8;
+}
