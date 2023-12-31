@@ -3,13 +3,14 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage Instructions](#usage-instructions)
-5. [Screenshots](#screenshots)
-6. [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
-7. [Changelog](#changelog)
-8. [Credits and Acknowledgments](#credits-and-acknowledgments)
-9. [License](#license)
+3. [Requirements](#requirements)
+4. [Installation](#installation)
+5. [Usage Instructions](#usage-instructions)
+6. [Screenshots](#screenshots)
+7. [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
+8. [Changelog](#changelog)
+9. [Credits and Acknowledgments](#credits-and-acknowledgments)
+10. [License](#license)
 
 ## Description
 The AI Image Post Generator is a WordPress plugin that automates blog post creation by utilizing the Chooch AI Vision Studio ImageChat API, OpenAI API, and Unsplash API. It generates a complete blog post, including the title, content, and SEO elements, based on a featured image selected from the WordPress media library. The plugin is fully integrated with the Gutenberg editor and includes custom Gutenberg blocks like 'Unsplash Image' and 'Unsplash Card' for enhanced content creation.
@@ -32,6 +33,12 @@ To ensure the best performance and compatibility, the AI Image Post Generator pl
 - **API Keys:** You will need to obtain and configure API keys for the following services:
   - [Chooch AI Vision Studio ImageChat API](https://app.chooch.ai/feed/sign_up/)
   - [OpenAI API](https://platform.openai.com/signup)
+
+#### For Asset Customization
+
+- **Node.js:** Node.js version 16 or higher. This is necessary for certain development tasks and running build scripts that may be part of the plugin.
+
+- **Composer:** Ensure you have Composer installed for managing PHP dependencies.
 
 Please make sure that your WordPress environment meets these requirements to ensure smooth operation of the AI Image Post Generator plugin.
 
