@@ -78,7 +78,7 @@ After installing the plugin, go to your WordPress dashboard, navigate to the 'Pl
 
 ### Step 2: API Key Configuration
 - **AIPG Settings:** In your WordPress dashboard, go to 'Settings' and find 'AIPG Settings'.
-- **Enter API Keys:** Here, you need to input your API keys for Chooch AI Vision Studio ImageChat and OpenAI. If you're planning to use Unsplash images, enter your Unsplash API key as well.
+- **Enter API Keys:** Here, you need to input your API keys for Chooch AI Vision Studio ImageChat and OpenAI. You don't need any API key for Unsplash API.
 - **Save Settings:** Ensure all API keys are correctly entered and save your settings.
 
 ### Step 3: Creating a Post
