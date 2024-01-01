@@ -17,7 +17,8 @@
  */
 
  // Useful global constants.
-define('AIPG_PLUGIN_VERSION', '0.1.0');
+define('AIPG_PLUGIN_VERSION', '1.0.0');
+define('AIPG_PLUGIN_NAME', plugin_basename( __FILE__ ));
 define('AIPG_PLUGIN_URL', plugin_dir_url(__FILE__));
 define('AIPG_PLUGIN_PATH', plugin_dir_path(__FILE__));
 define('AIPG_PLUGIN_INC', AIPG_PLUGIN_PATH . 'includes/');

@@ -34,6 +34,7 @@ function setup() {
 
 	// Hook to allow async or defer on asset loading.
 	add_filter( 'script_loader_tag', $n( 'script_loader_tag' ), 10, 2 );
+	add_filter( 'plugin_action_links_' . AIPG_PLUGIN_NAME, $n( 'add_plugin_settings_link' ) );
 
 	do_action( 'aipg_plugin_loaded' );
 }
@@ -158,6 +159,18 @@ function register_settings(){
 			'type'         => 'string',
 		]
 	);
+}
+
+
+/**
+ * Add direct link for Plugin Settings Page in Plugins screen
+ *
+ * @return void
+ */
+function add_plugin_settings_link($links){
+	$settings_link = '<a href="options-general.php?page=aipg-plugin-settings">' . __( 'Settings', 'aipg-plugin' ) . '</a>';
+    array_push( $links, $settings_link );
+	return $links;
 }
 
 

@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: AIPGPlugin\n"
-"POT-Creation-Date: 2024-01-01 17:15+0300\n"
+"POT-Creation-Date: 2024-01-01 17:56+0300\n"
 "PO-Revision-Date: 2015-03-03T12:53:58.231Z\n"
 "Last-Translator: Kyguney <kyguney@outlook.com>\n"
 "Language-Team: \n"
@@ -156,15 +156,19 @@ msgstr ""
 msgid "Replace Image"
 msgstr ""
 
-#: ../includes/core.php:67
+#: ../includes/core.php:68
 #, php-format
 msgid ""
 "The composer.json file was not found within %s. No classes will be "
 "loaded."
 msgstr ""
 
-#: ../includes/core.php:121 ../includes/core.php:122
+#: ../includes/core.php:122 ../includes/core.php:123
 msgid "AIPG Settings"
+msgstr ""
+
+#: ../includes/core.php:171
+msgid "Settings"
 msgstr ""
 
 #: ../includes/utils.js:46
