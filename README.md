@@ -123,11 +123,11 @@ The screenshots below provide a visual journey through the key features and inte
 
 1. **Plugin Installation:**
 
-   - ![Plugin Installation](assets/images/screenshots/screenshot01.gif)
+   - ![Plugin Installation](screenshots/screenshot01.gif)
 
 2. **Plugin Settings and API Configuration:**
 
-   - ![Plugin Settings and API Configuration](assets/images/screenshots/screenshot02.gif)
+   - ![Plugin Settings and API Configuration](screenshots/screenshot02.gif)
 
 3. **Getting API Keys from AI Services:**
 
@@ -135,30 +135,30 @@ The screenshots below provide a visual journey through the key features and inte
 
 		| 1. Navigate | 2. Registration |
 		| :-: | :-: |
-		| ![ Screenshot of Navigate to API Service ](assets/images/screenshots/screenshot0311.png) | ![ Screenshot of Registration ](assets/images/screenshots/screenshot0312.png) |
+		| ![ Screenshot of Navigate to API Service ](screenshots/screenshot0311.png) | ![ Screenshot of Registration ](screenshots/screenshot0312.png) |
 
 		| 3. Verification | 4. Login |
 		| :-: | :-: |
-		| ![ Screenshot of Verification ](assets/images/screenshots/screenshot0313.png) | ![ Screenshot of Login ](assets/images/screenshots/screenshot0314.png) |
+		| ![ Screenshot of Verification ](screenshots/screenshot0313.png) | ![ Screenshot of Login ](screenshots/screenshot0314.png) |
 
 		| 5. Obtain API |
 		| :-: |
-		| ![ Screenshot of Obtaining API ](assets/images/screenshots/screenshot0315.png) |
+		| ![ Screenshot of Obtaining API ](screenshots/screenshot0315.png) |
 
 
    - **OpenAI API Key Setup:**
 
 		| 1. Navigate | 2. Registration | 3. Verification |
 		| :-: | :-: | :-: |
-		| ![ Screenshot of Navigate ](assets/images/screenshots/screenshot0321.png) | ![ Screenshot of Registration ](assets/images/screenshots/screenshot0322.png) | ![ Screenshot of Verification ](assets/images/screenshots/screenshot0323.png) |
+		| ![ Screenshot of Navigate ](screenshots/screenshot0321.png) | ![ Screenshot of Registration ](screenshots/screenshot0322.png) | ![ Screenshot of Verification ](screenshots/screenshot0323.png) |
 
 		| 4. Login | 5. Navigate API Page | 6. Create |
 		| :-: | :-: | :-: |
-		| ![ Screenshot of Login ](assets/images/screenshots/screenshot0324.png) | ![ Screenshot of Navigate API Page ](assets/images/screenshots/screenshot0325.png) | ![ Screenshot of Create ](assets/images/screenshots/screenshot0326.png) |
+		| ![ Screenshot of Login ](screenshots/screenshot0324.png) | ![ Screenshot of Navigate API Page ](screenshots/screenshot0325.png) | ![ Screenshot of Create ](screenshots/screenshot0326.png) |
 
 		| 7. Create | 8. Obtain API |
 		| :-: | :-: |
-		| ![ Screenshot of Create ](assets/images/screenshots/screenshot0327.png) | ![ Screenshot of Obtain API ](assets/images/screenshots/screenshot0328.png) |
+		| ![ Screenshot of Create ](screenshots/screenshot0327.png) | ![ Screenshot of Obtain API ](screenshots/screenshot0328.png) |
 
 4. **Post Generation and Editing Interface:**
 
@@ -168,15 +168,15 @@ The screenshots below provide a visual journey through the key features and inte
 
    - **Post Editing and Customization:**
 
-		![Post Editing and Customization](assets/images/screenshots/screenshot042.gif)
+		![Post Editing and Customization](screenshots/screenshot042.gif)
 
    - **Image Alt Text and Caption Generation:**
 
-		![Image Alt Text and Caption Generation](assets/images/screenshots/screenshot043.gif)
+		![Image Alt Text and Caption Generation](screenshots/screenshot043.gif)
 
 5. **Final Post Layout and Design:**
 
-   ![Final Post Layout and Design](assets/images/screenshots/screenshot05.gif)
+   ![Final Post Layout and Design](screenshots/screenshot05.gif)
 
 6. **Custom Gutenberg Block Usage:**
 
