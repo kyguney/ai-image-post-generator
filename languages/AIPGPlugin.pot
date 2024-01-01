@@ -1,7 +1,8 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: AIPGPlugin\n"
-"POT-Creation-Date: 2015-03-03T12:53:58.231Z\n"
+"POT-Creation-Date: 2024-01-01 17:15+0300\n"
 "PO-Revision-Date: 2015-03-03T12:53:58.231Z\n"
 "Last-Translator: Kyguney <kyguney@outlook.com>\n"
 "Language-Team: \n"
@@ -9,7 +10,171 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
-"_n_noop:1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
-"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"_n_noop:1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 3.4.2\n"
 "X-Poedit-SearchPath-0: ..\n"
+
+#: ../assets/js/admin/components/Settings.js:55
+msgid "AIPG Plugin Settings"
+msgstr ""
+
+#: ../assets/js/admin/components/Settings.js:70
+msgid "ImageChat Settings"
+msgstr ""
+
+#: ../assets/js/admin/components/Settings.js:75
+msgid ""
+"In order to use ImageChat features, you need to register and obtain an "
+"API key."
+msgstr ""
+
+#: ../assets/js/admin/components/Settings.js:83
+#: ../assets/js/admin/components/Settings.js:109
+msgid "Get API Key"
+msgstr ""
+
+#: ../assets/js/admin/components/Settings.js:86
+#: ../assets/js/admin/components/Settings.js:112
+msgid "API Key"
+msgstr ""
+
+#: ../assets/js/admin/components/Settings.js:96
+msgid "Open AI Settings"
+msgstr ""
+
+#: ../assets/js/admin/components/Settings.js:101
+msgid ""
+"In order to use OpenAI features, you need to register and obtain an "
+"API key."
+msgstr ""
+
+#: ../assets/js/admin/components/Settings.js:133
+msgid "Settings Saved"
+msgstr ""
+
+#: ../assets/js/admin/components/Settings.js:141
+msgid "Save"
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:40
+msgid "Post generation started!"
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:45
+msgid "Image Not Found!"
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:54
+msgid "Image detail generation in progress..."
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:61
+msgid "Image detail generation completed successfully!"
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:66
+msgid "Post detail generation in progress...!"
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:73
+msgid "Post detail generation completed successfully!"
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:84
+msgid "Featured Image alt text and caption updated successfully!"
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:92
+msgid "Retrieving images for each paragraph in progress..."
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:111
+msgid "Retrieving images completed successfully!"
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:116
+msgid "Post generetion completed successfully!"
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:132
+msgid ""
+"Post detail generation has been stopped! Please check the console."
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:145
+msgid ""
+"Image detail generation has been stopped! Please check the console."
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:166
+msgid "Generate Post with AI"
+msgstr ""
+
+#: ../includes/block-filters/featured-image.js:179
+msgid "Please add featured image for view ai generation post button!"
+msgstr ""
+
+#: ../includes/blocks.php:105
+msgid "AIPG Blocks"
+msgstr ""
+
+#: ../includes/blocks/unsplash-image/edit.js:107
+msgid "Image uploaded."
+msgstr ""
+
+#: ../includes/blocks/unsplash-image/edit.js:154
+msgid "Unsplash Image"
+msgstr ""
+
+#: ../includes/blocks/unsplash-image/edit.js:156
+msgid "Quickly add image keywords to add images in your site."
+msgstr ""
+
+#: ../includes/blocks/unsplash-image/edit.js:177
+msgid "Number of images per searched keywords"
+msgstr ""
+
+#: ../includes/blocks/unsplash-image/edit.js:191
+msgid "Search images"
+msgstr ""
+
+#: ../includes/blocks/unsplash-image/edit.js:206
+msgid "Upload external image"
+msgstr ""
+
+#: ../includes/blocks/unsplash-image/edit.js:213
+msgid "Research images"
+msgstr ""
+
+#: ../includes/blocks/unsplash-image/edit.js:221
+msgid "Select Image"
+msgstr ""
+
+#: ../includes/blocks/unsplash-image/edit.js:229
+msgid "Replace Image"
+msgstr ""
+
+#: ../includes/core.php:67
+#, php-format
+msgid ""
+"The composer.json file was not found within %s. No classes will be "
+"loaded."
+msgstr ""
+
+#: ../includes/core.php:121 ../includes/core.php:122
+msgid "AIPG Settings"
+msgstr ""
+
+#: ../includes/utils.js:46
+msgid "Loading..."
+msgstr ""
+
+#: ../includes/utils.js:63
+msgid "Processing..."
+msgstr ""
+
+#: ../includes/utils.js:89
+msgid "An error occurred."
+msgstr ""
