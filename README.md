@@ -163,7 +163,8 @@ The screenshots below provide a visual journey through the key features and inte
 4. **Post Generation and Editing Interface:**
 
    - **Content Generation:**
-		<video src='https://github.com/kyguney/ai-image-post-generator-env/assets/3385354/35e0ec1e-9788-4b54-9248-1681b8b6e663'></video>
+
+		<video src='https://github.com/kyguney/ai-image-post-generator/assets/3385354/3f3f94a5-6754-48f5-bce9-58200c9fd9ff'></video>
 
    - **Post Editing and Customization:**
 
@@ -171,22 +172,21 @@ The screenshots below provide a visual journey through the key features and inte
 
    - **Image Alt Text and Caption Generation:**
 
-		![PImage Alt Text and Caption Generation](assets/images/screenshots/screenshot043.gif)
+		![Image Alt Text and Caption Generation](assets/images/screenshots/screenshot043.gif)
 
 5. **Final Post Layout and Design:**
 
-   [![Final Post Layout](assets/images/screenshots/screenshot05-thumbnail.png)](assets/images/screenshots/screenshot05.png)
+   ![Final Post Layout and Design](assets/images/screenshots/screenshot05.gif)
 
 6. **Custom Gutenberg Block Usage:**
 
    - **Unsplash Image Block:**
 
-     - ![Unsplash Image Block](path/to/screenshot4a.jpg)
-     - Description: Showcase the 'Unsplash Image' block in action. Focus on how users can search for and insert images directly from Unsplash into their posts using this block.
+     <video src='https://github.com/kyguney/ai-image-post-generator/assets/3385354/818e0080-3fa1-4f4a-9f48-432aab7f5536'></video>
 
    - **Unsplash Card Block:**
-     - ![Unsplash Card Block](path/to/screenshot4b.jpg)
-     - Description: Illustrate the usage of the 'Unsplash Card' block. Highlight the process of creating visually appealing image cards with text, showing the
+
+     <video src='https://github.com/kyguney/ai-image-post-generator/assets/3385354/2b6c633f-da99-44a0-9c58-cc406872b95b'></video>
 
 ## Frequently Asked Questions (FAQs)
 
