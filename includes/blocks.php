@@ -99,12 +99,12 @@ function blocks_editor_styles() {
  */
 function blocks_categories( $categories ) {
 	return array_merge(
-		$categories,
 		array(
 			array(
 				'slug'  => 'aipg-plugin',
 				'title' => __( 'AIPG Blocks', 'aipg-plugin' ),
 			),
-		)
+		),
+		$categories
 	);
 }
